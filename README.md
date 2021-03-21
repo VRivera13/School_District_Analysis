@@ -10,24 +10,25 @@ Comparisons were done between the initial School District Analysis and the recon
 # Affects
 
 How is the district summary affected?
-    The district summary was slightly affected as the % Overall Passing dropped 0.3%
-
+- The district summary was slightly affected as the % Overall Passing dropped 0.3%
+![Initial District Summary](https://github.com/VRivera13/School_District_Analysis/blob/main/Resources/Initial%20District%20Summary.png)
+![Final District Summary](https://github.com/VRivera13/School_District_Analysis/blob/main/Resources/Final%20District%20Summary.png)
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    The school summary was affected as removing the grades for the 9th grade class significantly dropped the Passing Math and Reading percentages for Thomas High School.  Once reconfiguration was done to adjust the student count, the percentages increased significantly.
-
+- The school summary was affected as removing the grades for the 9th grade class significantly dropped the Passing Math and Reading percentages for Thomas High School.  Once reconfiguration was done to adjust the student count, the percentages increased significantly.
+![Initial per school summary](https://github.com/VRivera13/School_District_Analysis/blob/main/Resources/Per%20School%20Summary%20.png)
+![Updated per school summary](https://github.com/VRivera13/School_District_Analysis/blob/main/Resources/Updated%20Per%20School%20Summary.png)
 
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
-    The affect on math and reading scores only affected the 9th grade for Thomas High School.   Being the grades were removed, they have no standing in the analysis.
+- The affect on math and reading scores only affected the 9th grade for Thomas High School.   Being the grades were removed, they have no standing in the analysis.
 
 Scores by school spending
-    The scores by school spending for the $630-644 range dropped slightly.
+- The scores by school spending for the $630-644 range dropped slightly.
 
-Scores by school size
-Scores by school type
-    Scores by school size and school type  had very minimal change.  Due to rounding, the numbers remained the same.
+Scores by school size & Scores by school type
+- Scores by school size and school type  had very minimal change.  Due to rounding, the numbers remained the same.
 
 
 ## Summary
