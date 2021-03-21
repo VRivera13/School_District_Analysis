@@ -1,13 +1,13 @@
 # School_District_Analysis
  
 ## Overview of Project
-# Purpose
+### Purpose
 Grade altering was detected at Thomas High School that affected the integrity of the grades submitted for the 9th grade class.    To uphold the guidelines of the state-testing standards, the grades for the 9th grade class were removed and replaced with NaN.   The initial School District Analysis was reconfigured to exclude the grades for the 9th grade class from Thomas High School.
 
 Comparisons were done between the initial School District Analysis and the reconfigured final School District Analysis after the altered grades were removed.
 
 ## Results
-# Affects
+### Affects
 
 How is the district summary affected?
 - The district summary was slightly affected as the % Overall Passing dropped 0.3%
