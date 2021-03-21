@@ -27,7 +27,6 @@ Scores by school spending
 
 Scores by school size
 Scores by school type
-
     Scores by school size and school type  had very minimal change.  Due to rounding, the numbers remained the same.
 
 
